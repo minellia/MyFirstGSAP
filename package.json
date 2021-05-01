@@ -1,0 +1,22 @@
+{
+  "name": "gsapdog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greensock/GSAP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greensock/GSAP/issues"
+  },
+  "homepage": "https://github.com/greensock/GSAP#readme",
+  "dependencies": {
+    "gsap": "^3.6.1"
+  }
+}
